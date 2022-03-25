@@ -38,3 +38,4 @@ This bot is made with minimal facilities and knowledge. This project can help yo
 
 [wightfile]: https://github.com/renger08/My-Github/blob/main/Detecter/Weights%20Folder%20Files.txt
 [wkhtmltopdf]: https://wkhtmltopdf.org/downloads.html
+[discord.py]: https://github.com/Rapptz/discord.py
