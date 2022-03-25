@@ -19,16 +19,12 @@
 - My Custom Discord Bot
 
 ## Discord-Bot Repository Projects:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Discord Bot [(Discord.py)][discord.py]
+- Cogs
+- server prefix, welcome message and etc.
+
+### Note:
+This robot is made with minimal facilities and knowledge. This project can help you build a better bot with more features. This Repository is free and you can develop this bot.
 
 
 ---
