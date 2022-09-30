@@ -1,9 +1,17 @@
 # Hi there i'm Ali :)
+## Matrix-Effect Project:
+A Simple [Project](https://github.com/renger08/Matrix-Effect) Written in Html(13%) , Css(5%) and JavaScript(81%)
+Enjoy it ...
+
+## Card-Outer-GLow-Effect Project:
+A simple [Project](https://github.com/renger08/Card-Outer-GLow-Effect) written in Html(45%) and Css(55%)
+Enjoy it ...
+
 ## My-Github Repository Projects:
-- Face & Gender Detection [(Download More Files Required)][wightfile]
+- Face & Gender Detection [(Download Required Files)][wightfile]
 - Encrypter & Decrypter
 - Game Hacking (Not Completed)
-- HTML To PDF [(Download More Files Required)][wkhtmltopdf]
+- HTML To PDF [(Download Required Files)][wkhtmltopdf]
 - PDF To Docx
 - Collection Of Best Tutorials In Internet
 - Speech To Text
