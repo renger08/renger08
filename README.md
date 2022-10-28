@@ -1,4 +1,10 @@
-# Hi there i'm Ali :)
+# Hi there i'm Gholam_Taxyr (Ali) :)
+
+## Digital-Clock Project:
+A Simple [Project](https://github.com/renger08/Matrix-Effect) Written in Python (100%)
+Enjoy it ...
+
+
 ## Matrix-Effect Project:
 A Simple [Project](https://github.com/renger08/Matrix-Effect) Written in Html(13%) , Css(5%) and JavaScript(81%)
 Enjoy it ...
