@@ -1,7 +1,7 @@
 # Hi there i'm Gholam_Taxyr (Ali) :)
 
 ## Tesseract-OCR Project (Free!!)
-Coming soon...  :)
+A Simple [OCR Project](https://github.com/renger08/Tesseract-OCR) Made With Python3.10.7 using pytesseract, Pillow, docx, fpdf, os and argparse Libraries.
 
 ## Digital-Clock Project:
 A Simple [Project](https://github.com/renger08/Digital-Clock) Written in Python ( 3.10.7 ) (100%)
