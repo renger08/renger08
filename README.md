@@ -1,5 +1,8 @@
 # Hi there i'm Gholam_Taxyr (Ali) :)
 
+## Tesseract-OCR Project (Free!!)
+Coming soon...  :)
+
 ## Digital-Clock Project:
 A Simple [Project](https://github.com/renger08/Digital-Clock) Written in Python ( 3.10.7 ) (100%)
 Enjoy it ...
