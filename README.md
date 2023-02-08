@@ -1,5 +1,8 @@
 # Hi there i'm Gholam_Taxyr (Ali) :)
 
+## Discord RPC Project ( Coming Soon )
+Simple and Free Discord Rich Presence Written in JavaScript.
+
 ## Tesseract-OCR Project (Free!!)
 A Simple [OCR Project](https://github.com/renger08/Tesseract-OCR) Made With Python3.10.7 using pytesseract, Pillow, docx, fpdf, os and argparse Libraries.
 
