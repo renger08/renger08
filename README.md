@@ -35,10 +35,10 @@ Enjoy it ...
 - Tips & Hints
 - Tkinter Projects (Not Completed)
 - Wifi Tool (Not Completed)
-- Discord Game Bot
-- My Custom Discord Bot
+- Discord Game Bot - it's not gonna work
+- My Custom Discord Bot - it's not gonna work
 
-## Discord-Bot Repository Projects:
+## Discord-Bot Repository Projects: - it's not gonna work
 - Discord Bot [(Discord.py)][discord.py]
 - Cogs
 - server prefix, welcome message and etc.
