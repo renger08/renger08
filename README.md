@@ -1,4 +1,11 @@
 # Hi there i'm Gholam_Taxyr (Ali) :)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show_icons=true)
+
+# Weather Station
+Recive Weather information from internet using API
+Just using ESP32 and Oled Display
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=weatherStation)](https://github.com/renger08/weatherStation)
 
 ## Discord RPC Project ( Coming Soon )
 Simple and Free Discord Rich Presence Written in JavaScript.
