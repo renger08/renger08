@@ -1,5 +1,6 @@
 # Hi there i'm Gholam_Taxyr (Ali) :)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renger08&layout=donut)](https://github.com/renger08/renger08)
 
 # Weather Station
 Recive Weather information from internet using API
