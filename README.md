@@ -1,12 +1,34 @@
-# Hi there i'm Gholam_Taxyr (Ali) :)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renger08&layout=donut)](https://github.com/renger08/renger08)
+# Hi there i'm Ali
+![renger08's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renger08&size_weight=0.5&count_weight=0.5)
+
+# ESP32 Temperature and Humidity Sensor
+AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor)
+
+# V2Ray Config Finder
+[check out here](https://renger08.github.io/ConfigFinder/)
+Not Compeleted. Mobile view point issue
+
+# Telegram Proxy Finder
+[check out here](https://renger08.github.io/TelegramProxyFinder/)
+Not Compeleted. Mobile view point issue
+
+# Telegram Bot
+Customer support telegram bot written in python
+(it`s private for now)
+
+# ESP32 Digital Clock
+I`ll complite it soon :)
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Digital-Clock)
 
 # Weather Station
 Recive Weather information from internet using API
 Just using ESP32 and Oled Display
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=weatherStation)](https://github.com/renger08/weatherStation)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/weatherStation)
 
 ## Discord RPC Project ( Coming Soon )
 Simple and Free Discord Rich Presence Written in JavaScript.
@@ -53,16 +75,6 @@ Enjoy it ...
 
 ### Note:
 This bot is made with minimal facilities and knowledge. This project can help you build a better bot with more features. This Repository is free and you can develop this bot.
-
-
----
-
-<img align="left" alt="Ali Renger Github Stats" src="https://github-readme-stats.vercel.app/api?username=renger08&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-<br />
-<br />
-
 
 [wightfile]: https://github.com/renger08/My-Github/blob/main/Detecter/Weights%20Folder%20Files.txt
 [wkhtmltopdf]: https://wkhtmltopdf.org/downloads.html
