@@ -1,11 +1,11 @@
 # Hi there i'm Ali
-![renger08's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renger08&size_weight=0.5&count_weight=0.5)
+![renger08's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renger08&size_weight=0.5&count_weight=0.5)
 
 # ESP32 Temperature and Humidity Sensor
 AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor)
 
 # V2Ray Config Finder
 [check out here](https://renger08.github.io/ConfigFinder/)
@@ -22,13 +22,13 @@ Customer support telegram bot written in python
 # ESP32 Digital Clock
 I`ll complite it soon :)
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Digital-Clock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/ESP32-Digital-Clock)
 
 # Weather Station
 Recive Weather information from internet using API
 Just using ESP32 and Oled Display
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/weatherStation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=github-readme-stats)](https://github.com/renger08/weatherStation)
 
 ## Discord RPC Project ( Coming Soon )
 Simple and Free Discord Rich Presence Written in JavaScript.
