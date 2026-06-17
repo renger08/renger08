@@ -1,11 +1,23 @@
 # Hi there i'm Ali
 ![renger08's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renger08&size_weight=0.5&count_weight=0.5)
 
 # ESP32 Temperature and Humidity Sensor
 AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Temp-Humidity-Sensor)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor)
+
+# ESP32 Digital Clock
+Digital Clocl using 7-Segment Display and RTC module
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Digital-Clock)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor](https://github.com/renger08/ESP32-Digital-Clock))
+
+# Weather Station
+Recive Weather information from internet using API
+Just using ESP32 and Oled Display
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=weatherStation)](https://github.com/renger08/weatherStation)
 
 # V2Ray Config Finder
 [check out here](https://renger08.github.io/ConfigFinder/)
@@ -18,17 +30,6 @@ Not Compeleted. Mobile view point issue
 # Telegram Bot
 Customer support telegram bot written in python
 (it`s private for now)
-
-# ESP32 Digital Clock
-I`ll complite it soon :)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Digital-Clock)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor](https://github.com/renger08/ESP32-Digital-Clock))
-
-# Weather Station
-Recive Weather information from internet using API
-Just using ESP32 and Oled Display
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=weatherStation)](https://github.com/renger08/weatherStation)
 
 ## Discord RPC Project ( Coming Soon )
 Simple and Free Discord Rich Presence Written in JavaScript.
