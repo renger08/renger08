@@ -22,13 +22,13 @@ Customer support telegram bot written in python
 # ESP32 Digital Clock
 I`ll complite it soon :)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Temp-Humidity-Sensor)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor](https://github.com/renger08/ESP32-Digital-Clock))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Digital-Clock)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor](https://github.com/renger08/ESP32-Digital-Clock))
 
 # Weather Station
 Recive Weather information from internet using API
 Just using ESP32 and Oled Display
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Temp-Humidity-Sensor)](https://github.com/renger08/weatherStation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=weatherStation)](https://github.com/renger08/weatherStation)
 
 ## Discord RPC Project ( Coming Soon )
 Simple and Free Discord Rich Presence Written in JavaScript.
