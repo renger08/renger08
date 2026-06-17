@@ -14,7 +14,7 @@ AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
 # ESP32 Digital Clock
 Digital Clocl using 7-Segment Display and RTC module
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Digital-Clock)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor](https://github.com/renger08/ESP32-Digital-Clock))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renger08&repo=ESP32-Digital-Clock)](https://github.com/renger08/ESP32-Digital-Clock)
 
 # Weather Station
 Recive Weather information from internet using API
