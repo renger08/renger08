@@ -1,6 +1,9 @@
 # Hi there i'm Ali
 ![renger08's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <hr>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renger08&size_weight=0.5&count_weight=0.5)
 
 # ESP32 Temperature and Humidity Sensor
