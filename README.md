@@ -1,5 +1,5 @@
 # Hi there i'm Ali
-![renger08's GitHub stats](https://github-readme-stats.vercel.app/api?username=renger08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)
 
 <hr>
 
