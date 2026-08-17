@@ -32,18 +32,9 @@ Not Compeleted. Mobile view point issue
 [check out here](https://renger08.github.io/TelegramProxyFinder/)
 Not Compeleted. Mobile view point issue
 
-# Telegram Bot
-Customer support telegram bot written in python
-(it`s private for now)
-
-## Discord RPC Project ( Coming Soon )
-Simple and Free Discord Rich Presence Written in JavaScript.
-
 ## Tesseract-OCR Project (Free!!)
 A Simple [OCR Project](https://github.com/renger08/Tesseract-OCR) Made With Python3.10.7 using pytesseract, Pillow, docx, fpdf, os and argparse Libraries.
 
 ## Digital-Clock Project:
 A Simple [Project](https://github.com/renger08/Digital-Clock) Written in Python ( 3.10.7 ) (100%)
 Enjoy it ...
-
-[discord.py]: https://github.com/Rapptz/discord.py
