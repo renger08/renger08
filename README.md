@@ -1,16 +1,11 @@
 # Hi there i'm Ali
-## Check out my website:
-[thealinabati.ir](https://thealinabati.ir/)
 
-<hr>
+## Check out my [website](https://thealinabati.ir/)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)
 
-<hr>
-
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=renger08&langs_count=3&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=renger08&langs_count=3&theme=ambient_gradient)
-
+<hr>
 # ESP32 Temperature and Humidity Sensor
 AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
 
