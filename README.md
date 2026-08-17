@@ -1,4 +1,9 @@
 # Hi there i'm Ali
+## Check out my website:
+[thealinabati.ir](https://thealinabati.ir/)
+
+<hr>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)
 
 <hr>
@@ -44,42 +49,4 @@ A Simple [OCR Project](https://github.com/renger08/Tesseract-OCR) Made With Pyth
 A Simple [Project](https://github.com/renger08/Digital-Clock) Written in Python ( 3.10.7 ) (100%)
 Enjoy it ...
 
-
-## Matrix-Effect Project:
-A Simple [Project](https://github.com/renger08/Matrix-Effect) Written in Html(13%) , Css(5%) and JavaScript(81%)
-Enjoy it ...
-
-## Card-Outer-GLow-Effect Project:
-A simple [Project](https://github.com/renger08/Card-Outer-GLow-Effect) written in Html(45%) and Css(55%)
-Enjoy it ...
-
-## My-Github Repository Projects:
-- Face & Gender Detection [(Download Required Files)][wightfile]
-- Encrypter & Decrypter
-- Game Hacking (Not Completed)
-- HTML To PDF [(Download Required Files)][wkhtmltopdf]
-- PDF To Docx
-- Collection Of Best Tutorials In Internet
-- Speech To Text
-- Steal (Discord)Token
-- Steganography
-- Practis Files
-- Custom Terminal (Not Completed)
-- Text To Speech
-- Tips & Hints
-- Tkinter Projects (Not Completed)
-- Wifi Tool (Not Completed)
-- Discord Game Bot - it's not gonna work
-- My Custom Discord Bot - it's not gonna work
-
-## Discord-Bot Repository Projects: - it's not gonna work
-- Discord Bot [(Discord.py)][discord.py]
-- Cogs
-- server prefix, welcome message and etc.
-
-### Note:
-This bot is made with minimal facilities and knowledge. This project can help you build a better bot with more features. This Repository is free and you can develop this bot.
-
-[wightfile]: https://github.com/renger08/My-Github/blob/main/Detecter/Weights%20Folder%20Files.txt
-[wkhtmltopdf]: https://wkhtmltopdf.org/downloads.html
 [discord.py]: https://github.com/Rapptz/discord.py
