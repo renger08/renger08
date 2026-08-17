@@ -14,7 +14,7 @@ AHT10 Humidity and Temperature Sensor powered by an ESP32 Dev Module
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=renger08&repo=renger08/ESP32-Temp-Humidity-Sensor&theme=one_dark_pro)](https://github.com/renger08/ESP32-Temp-Humidity-Sensor)
 
 # ESP32 Digital Clock
-Digital Clocl using 7-Segment Display and RTC module
+Digital Clock using 7-Segment Display and RTC module
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=renger08&repo=renger08/ESP32-Digital-Clock&theme=one_dark_pro)](https://github.com/renger08/ESP32-Digital-Clock)
 
