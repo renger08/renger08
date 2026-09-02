@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gholam_Taxyr&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 0, Total PRs: 3, Total Issues: 2, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 238, Total PRs: 3, Total Issues: 2, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ffffff;
+            fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #ffffff;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #ffffff;
+      fill: #4c71f2;
       display: none;
     }
 
     .rank-circle-rim {
-      stroke: #ffffff;
+      stroke: #2f80ed;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #ffffff;
+      stroke: #2f80ed;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 244.09147703974688;
+        stroke-dashoffset: 237.72116341486452;
       }
     }
   
@@ -102,16 +102,6 @@
         </style>
 
         
-        <defs>
-          <linearGradient
-            id="gradient"
-            gradientTransform="rotate(35)"
-            gradientUnits="userSpaceOnUse"
-          >
-            <stop offset="0%" stop-color="#4158d0" />,<stop offset="50%" stop-color="#c850c0" />,<stop offset="100%" stop-color="#ffcc70" />
-          </linearGradient>
-        </defs>
-        
 
         <rect
           data-testid="card-bg"
@@ -121,7 +111,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="449"
-          fill="url(#gradient)"
+          fill="#fffefe"
           stroke-opacity="1"
         />
 
@@ -179,7 +169,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >0</text>
+      >238</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
