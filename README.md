@@ -1,5 +1,7 @@
 # Hi there i'm Ali
 
+![Stats](./profile/stats.svg)
+
 ## Check out my [website](https://thealinabati.ir/)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=renger08&include_all_commits=true&theme=ambient_gradient)
