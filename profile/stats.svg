@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Gholam_Taxyr&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 268, Total PRs: 3, Total Issues: 2, Contributed to (last year): 1</desc>
+        <title id="titleId">Ali Nabati&#39;s GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 286, Total PRs: 5, Total Issues: 2, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 236.99022201468955;
+        stroke-dashoffset: 234.910747191291;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Gholam_Taxyr&#39;s GitHub Stats</text>
+      >Ali Nabati&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >268</text>
+      >286</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >3</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
